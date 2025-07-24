@@ -24,12 +24,12 @@ D = np.array([
 
 # -------------------------------
 # Parámetros
-eta = 0.1
-max_epochs = 100
+eta = 0.2
+max_epochs = 1000
 threshold = 0
 n_inputs = X_bias.shape[1]
 n_outputs = D.shape[1]
-W = np.random.uniform(-0.5, 0.5, size=(n_outputs, n_inputs))
+W = np.random.uniform(-0.1, 0.1, size=(n_outputs, n_inputs))
 
 def step(x): return np.where(x > threshold, 1, 0)
 
