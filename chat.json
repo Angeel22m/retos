@@ -1,0 +1,72 @@
+[
+  {
+    "texto": "hola",
+    "de_usuario": true,
+    "hora": "22:10"
+  },
+  {
+    "texto": "¡Hola! Soy tu asistente de salud. Pregúntame sobre tu peso ideal, IMC, consejos o ejercicios.",
+    "de_usuario": false,
+    "hora": "22:10"
+  },
+  {
+    "texto": "calcula el imc",
+    "de_usuario": true,
+    "hora": "22:10"
+  },
+  {
+    "texto": "Para calcular tu IMC usa la fórmula: peso (kg) dividido por tu altura (m) al cuadrado. O dime tu peso y altura y yo lo calculo.",
+    "de_usuario": false,
+    "hora": "22:10"
+  },
+  {
+    "texto": "bye",
+    "de_usuario": true,
+    "hora": "22:10"
+  },
+  {
+    "texto": "Lo siento, no entendí eso. Pregúntame sobre salud, ejercicio o dime tu peso y altura para calcular tu IMC. 🤖",
+    "de_usuario": false,
+    "hora": "22:10"
+  },
+  {
+    "texto": "adios",
+    "de_usuario": true,
+    "hora": "22:10"
+  },
+  {
+    "texto": "¡Hasta luego! Sigue cuidándote. 💪",
+    "de_usuario": false,
+    "hora": "22:10"
+  },
+  {
+    "texto": "gracias",
+    "de_usuario": true,
+    "hora": "22:10"
+  },
+  {
+    "texto": "¡Con gusto! Estoy para ayudarte.",
+    "de_usuario": false,
+    "hora": "22:10"
+  },
+  {
+    "texto": "sabes de ejercicios",
+    "de_usuario": true,
+    "hora": "22:10"
+  },
+  {
+    "texto": "La inactividad física puede aumentar el riesgo de enfermedades cardíacas, obesidad, ansiedad y otros problemas de salud.",
+    "de_usuario": false,
+    "hora": "22:10"
+  },
+  {
+    "texto": "que me recomiendas",
+    "de_usuario": true,
+    "hora": "22:11"
+  },
+  {
+    "texto": "Ejercicios recomendados: caminar, correr, nadar, entrenar fuerza, andar en bici y yoga. Escoge lo que disfrutes y puedas mantener.",
+    "de_usuario": false,
+    "hora": "22:11"
+  }
+]
