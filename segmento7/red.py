@@ -48,9 +48,9 @@ def pesos_validos(path, expected_shape):
 
 # Función para entrenar red
 def entrenar_red():
-    eta = 0.1
-    max_epochs = 100
-    W = np.random.uniform(-0.5, 0.5, size=expected_shape)
+    eta = 0.2
+    max_epochs = 1000
+    W = np.random.uniform(-0.1, 0.1, size=expected_shape)
     for epoch in range(max_epochs):
         total_errors = 0
         for i in range(X_bias.shape[0]):
